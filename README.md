@@ -1,1 +1,1 @@
-# 450-code
+Code for our 450 capstone project
