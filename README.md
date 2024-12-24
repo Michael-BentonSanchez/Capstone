@@ -5,6 +5,7 @@
 * Angular.js
 * Firebase (Firestore NoSQL Database)
 * Mapbox API
+* Jest
 
 ## Team Members:
 * Caleb T.
